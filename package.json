@@ -4,10 +4,10 @@
   "description": "WebSQL Database API, implemented for Node using sqlite3",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nolanlawson/node-websql.git"
+    "url": "git://github.com/expo/node-websql.git"
   },
   "bugs": {
-    "url": "https://github.com/nolanlawson/node-websql/issues"
+    "url": "https://github.com/expo/node-websql/issues"
   },
   "main": "lib/index.js",
   "browser": {
